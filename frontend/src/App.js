@@ -1,6 +1,8 @@
 import React from 'react';
 
-import Logon from './pages/Logon/index';
+import './global.css';
+
+import Logon from './pages/Logon';
 
 function App() {
   return (
